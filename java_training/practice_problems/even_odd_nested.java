@@ -7,13 +7,13 @@ public class even_odd_nested {
         int a=sc.nextInt();
         if(a>=0)
         {
-            if(a%2==0)
-            {
-                System.out.println("pos even");
-            }
-            else if(a==0)
+             if(a==0)
             {
                 System.out.println("pos");
+            }
+            else if(a%2==0)
+            {
+                System.out.println("pos even");
             }
             else
             {
@@ -28,9 +28,9 @@ public class even_odd_nested {
             }
             else
             {
-                System.out.println("pos odd");
+                System.out.println("neg even");
             }
         }
-
+        sc.close();
     }
 }
