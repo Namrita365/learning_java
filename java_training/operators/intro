@@ -1,0 +1,9 @@
+/*operators-symbol that can perform related operation among the variables or operands
+ * different types of operators
+ * 1.arthmetic (+,-,*,/,%)
+ * 2.relational(<,>,<=,>=,==,!=)
+ * 3.logical(&&,||,!)
+ * 4.assignment or comparision(+=,-=,*=,/=,%=)
+ * 5.conditional(single way selection and multi way selection)
+ * 6.increment and decrement operator(post and pre)
+ */
