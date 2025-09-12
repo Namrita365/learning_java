@@ -1,0 +1,12 @@
+for(int i=0;i<=4;i++){
+    sop(a[i])
+}
+for(int n:a){
+    sop(n)
+}
+w3resource java exercises
+==================
+Arrays
+1.two pointers
+2.sliding window
+3.Hash map
