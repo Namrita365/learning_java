@@ -1,0 +1,12 @@
+functions--2 types
+1.predefined
+2.userdefined
+ userdefined functions canbe created in 4 ways
+1.wpwr
+2.wpwor
+3.wopwr
+4.wopwor
+funct definition
+ return_type fun_name(p1,p2){
+
+}
