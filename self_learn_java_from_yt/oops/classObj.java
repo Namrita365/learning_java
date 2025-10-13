@@ -19,5 +19,7 @@ public class classObj{
         System.out.println("the colour of bag is "+b1.color+" and it is "+b1.price+" rupeees");
         b1.display();
         System.out.println("The bag in the "+b2.color+" is mine and it is of "+b2.price+" rupees");
+        b2.display();
+        
     }
 }
