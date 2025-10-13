@@ -8,7 +8,7 @@
  */
 public class intro {
     public static void main(String args[]){
-        int n=2345,rem,sum=0,temp;
+        int n=2345,rem,sum=0;
         while(n>0){
             rem=n%10;
             sum=sum+rem;//sum=sum*10+rem
