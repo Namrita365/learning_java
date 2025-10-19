@@ -19,11 +19,6 @@ public class classObj_Using_this {
         p2.color="black";
         p2.type="gel";
         p1.display();
-        p2.display();
-        Student s=new Student();
-        s.name="Namrita";
-        s.age=21;
-        s.display();
-    
+        p2.display();    
     }
 }
