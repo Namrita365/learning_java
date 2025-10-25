@@ -1,6 +1,6 @@
 class Shapes{
     public void display_area(){
-        System.out.println();
+        System.out.println("displays area");
     }
 }
 class triangle extends Shapes{
